@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fc5d3d9130c20d84b8e4e9f18f332cd0
+timeCreated: 1546842331
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99281
+  packageName: Suspension
+  packageVersion: 2.0
+  assetPath: Assets/Suspension/Scripts/AdditionalScripts/CarController.cs
+  uploadId: 390998

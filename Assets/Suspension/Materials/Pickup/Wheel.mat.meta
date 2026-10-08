@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 229fe4deaf7b743408d2dc117a2c9230
+timeCreated: 1544367736
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99281
+  packageName: Suspension
+  packageVersion: 2.0
+  assetPath: Assets/Suspension/Materials/Pickup/Wheel.mat
+  uploadId: 390998

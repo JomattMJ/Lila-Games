@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 89caff571c9c466429ba71302cc53f8a
+timeCreated: 1545191125
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99281
+  packageName: Suspension
+  packageVersion: 2.0
+  assetPath: Assets/Suspension/Scripts/MainScripts/SuspensionHelper.cs
+  uploadId: 390998

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d07306094b5fb74687c3c1e6cbb58cf
+timeCreated: 1548345018
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99281
+  packageName: Suspension
+  packageVersion: 2.0
+  assetPath: Assets/Suspension/FBX/Materials/No Name.mat
+  uploadId: 390998
